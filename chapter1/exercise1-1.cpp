@@ -5,5 +5,7 @@
 
 int main()
 {
-    std::cout << "Binary search has time complexity O(logn), therefore for 128 names the worst case would take log128 = 7 steps" << std::endl;
+    std::cout << "Binary search has time complexity O(logn), therefore for 128 names the worst case would take log128 "
+                 "= 7 steps"
+              << std::endl;
 }
